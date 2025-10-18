@@ -1,6 +1,6 @@
 # Challenging LLMs with New Tasks
 
-This repository is for our paper: Challenging Large Language Models with New Tasks: A Study on their Adaptability and Robustness. This repository contains the datasets for the six tasks; GPT-4 evaluation scripts for these tasks; and the evaluation results used in the paper.
+This repository is for [our ACL 2024 Findings paper](https://aclanthology.org/2024.findings-acl.485/): Challenging Large Language Models with New Tasks: A Study on their Adaptability and Robustness. This repository contains the datasets for the six tasks; GPT-4 evaluation scripts for these tasks; and the evaluation results used in the paper.
 
 
 1. The 'datasets' directory contains prompts for six tasks.
